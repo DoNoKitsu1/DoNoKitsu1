@@ -1,16 +1,44 @@
-## Hi there 👋
+<!-- 1. HEADER -->
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=27F0A6&width=435&lines=Biomedical+Student;Developer+and+Maker;Linux+and+Robotics+Enthusiast)](https://git.io/typing-svg)
+</div>
 
-<!--
-**DoNoKitsu1/DoNoKitsu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<!-- 2. ABOUT ME -->
+### 👨‍💻 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔭 **Currently working on:** Your dreams baby.
+* 🌱 **Actively learning:** Robotics, microcontrollers (ESP32), and embedded systems.
+* 🛠️ **Other projects:** 3D modeling and printing, and biomedical equipment maintenance.
+* ⚡ **Fun fact:** My main environment is Arch Linux (CachyOS and EndeavourOS).
+
+---
+
+<!-- 3. SKILLS -->
+### 🛠️ My Tools and Technologies
+
+**Systems and Hardware:**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+
+**3D Design and Modeling:**
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+**Tools and Automation:**
+![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Typst](https://img.shields.io/badge/Typst-239DAD?style=for-the-badge&logo=typst&logoColor=white)
+
+---
+
+<!-- 4. STATS -->
+### 📊 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DoNoKitsu1&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoNoKitsu1&layout=compact&theme=radical" />
+</div>
