@@ -1,8 +1,9 @@
 <!-- 1. HEADER -->
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=27F0A6&width=435&lines=Biomedical+Student;Developer+and+Maker;Linux+and+Robotics+Enthusiast)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F0A6&width=435&lines=Biomedical+and+Systems++Student;Developer+and+Maker;Linux+and+Robotics+Enthusiast" alt="Typing SVG" />
+  </a>
 </div>
-
 ---
 
 <!-- 2. ABOUT ME -->
@@ -17,6 +18,14 @@
 
 <!-- 3. SKILLS -->
 ### 🛠️ My Tools and Technologies
+
+**Programming Languages & Web:**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 **Systems and Hardware:**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -39,6 +48,6 @@
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DoNoKitsu1&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoNoKitsu1&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DoNoKitsu1&show_icons=true&theme=radical&v=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoNoKitsu1&layout=compact&theme=radical&v=1" />
 </div>
