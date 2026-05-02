@@ -6,13 +6,26 @@
 </div>
 ---
 
-<!-- 2. ABOUT ME -->
-### 👨‍💻 About me
+<!-- 2. ABOUT ME & BIO -->
+### 👨‍💻 A bit more about me
 
-* 🔭 **Currently working on:** Your dreams baby.
-* 🌱 **Actively learning:** Robotics, microcontrollers (ESP32), and embedded systems.
-* 🛠️ **Other projects:** 3D modeling and printing, and biomedical equipment maintenance.
-* ⚡ **Fun fact:** My main environment is Arch Linux (CachyOS and EndeavourOS).
+<div align="left">
+  <img src="https://i.pinimg.com/originals/02/a3/ac/02a3acc44463ee6a8862e81f623b503f.gif" width="220" align="right" style="border-radius: 10px;" alt="P*to el lo lea">
+  
+  Hi, I'm Mateo! I'm a 21-year-old biomedical tech student based in Cochabamba, Bolivia. My core focus is on the intersection of healthcare technology, hardware repair, and development. <br><br>
+
+  When I'm not working with medical equipment, I'm managing my 3D printing and modeling initiative, <b>Salchicha 3D</b>. I am a strong advocate for open-source and Linux environments, and I spend a lot of time reading technical documentation in English.<br><br>
+  
+  Beyond the screen, you can find me reading web novels like <i>Lord of the Mysteries</i>, enjoying high-fidelity music, or playing games like <i>Genshin Impact</i> and the <i>Persona</i> series. <br><br>
+
+  * 🔭 **Currently working on:** Your dreams baby.
+  * 🌱 **Actively learning:** Robotics, microcontrollers (ESP32), and embedded systems.
+  * 🛠️ **Other projects:** 3D modeling and printing, and biomedical equipment maintenance.
+  * ⚡ **Fun fact:** My main environment is EndeavourOS.
+</div>
+
+<br clear="both">
+<hr>
 
 <br>
   <!-- Animación de Pacman -->
@@ -25,7 +38,9 @@
 
 <!-- 3. SKILLS -->
 ### 🛠️ My Tools and Technologies
-
+<div align="left">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGQwc3V6bG84NW5oazd5ZGp4djc2bWN3OXNibXB6dTVsbGZocjd2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GQGkoEM068V4veEYNN/giphy.gif" width="220" align="right" style="border-radius: 10px;" alt="P*to el lo lea">
+  
 **Programming Languages & Web:**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
