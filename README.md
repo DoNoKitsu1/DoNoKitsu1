@@ -17,11 +17,10 @@
 <br>
   <!-- Animación de Pacman -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DoNoKitsu1/DoNoKitsu1/output/pacman-contribution-graph.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DoNoKitsu1/DoNoKitsu1/output/pacman-contribution-graph.svg">
-    <img alt="Pacman Contribution Animation" src="https://raw.githubusercontent.com/DoNoKitsu1/DoNoKitsu1/output/pacman-contribution-graph.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DoNoKitsu1/DoNoKitsu1/output/pacman-contribution-graph.svg?v=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DoNoKitsu1/DoNoKitsu1/output/pacman-contribution-graph.svg?v=dark">
+    <img alt="Pacman Contribution Animation" src="https://raw.githubusercontent.com/DoNoKitsu1/DoNoKitsu1/output/pacman-contribution-graph.svg?v=dark" width="100%">
   </picture>
-
 ---
 
 <!-- 3. SKILLS -->
