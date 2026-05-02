@@ -14,6 +14,14 @@
 * 🛠️ **Other projects:** 3D modeling and printing, and biomedical equipment maintenance.
 * ⚡ **Fun fact:** My main environment is Arch Linux (CachyOS and EndeavourOS).
 
+<br>
+  <!-- Animación de Pacman -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DoNoKitsu1/DoNoKitsu1/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DoNoKitsu1/DoNoKitsu1/output/pacman-contribution-graph.svg">
+    <img alt="Pacman Contribution Animation" src="https://raw.githubusercontent.com/DoNoKitsu1/DoNoKitsu1/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+
 ---
 
 <!-- 3. SKILLS -->
